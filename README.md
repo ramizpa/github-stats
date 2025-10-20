@@ -1,3 +1,3 @@
-## 📚 Libraries Used
 
-[![Libraries Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ramizpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📚 Libraries Used
+![Top Libraries](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ramizpa/ramizpa/main/output/libraries.json)
