@@ -20,14 +20,89 @@
     "count": 3
   },
   {
+    "name": "Matplotlib",
+    "value": 3.64,
+    "count": 2
+  },
+  {
     "name": "NumPy",
     "value": 3.64,
     "count": 2
   },
   {
-    "name": "Matplotlib",
-    "value": 3.64,
-    "count": 2
+    "name": "Pygame",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gensim",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-datasets",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard-data-server",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Torchinfo",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Keras",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Smart-open",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Huggingface",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Seaborn",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tqdm",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Pillow",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Nltk",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Scikit-image",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gym",
+    "value": 1.82,
+    "count": 1
   },
   {
     "name": "TensorFlow",
@@ -40,87 +115,12 @@
     "count": 1
   },
   {
-    "name": "Scikit-image",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Pygame",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorflow-datasets",
-    "value": 1.82,
-    "count": 1
-  },
-  {
     "name": "Tensorflow-hub",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Torchinfo",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tqdm",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorboard-data-server",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorboard",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Smart-open",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Keras",
-    "value": 1.82,
-    "count": 1
-  },
-  {
     "name": "Imageio",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Nltk",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gensim",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Seaborn",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gym",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Huggingface",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Pillow",
     "value": 1.82,
     "count": 1
   },
@@ -135,7 +135,7 @@
     "count": 1
   },
   {
-    "name": "SHAP",
+    "name": "Urllib",
     "value": 1.82,
     "count": 1
   },
@@ -145,22 +145,7 @@
     "count": 1
   },
   {
-    "name": "Io",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Urllib",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Sys",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Os",
+    "name": "Fpdf",
     "value": 1.82,
     "count": 1
   },
@@ -170,7 +155,12 @@
     "count": 1
   },
   {
-    "name": "Fpdf",
+    "name": "Sys",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Socket",
     "value": 1.82,
     "count": 1
   },
@@ -180,7 +170,17 @@
     "count": 1
   },
   {
-    "name": "Socket",
+    "name": "Io",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "SHAP",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Os",
     "value": 1.82,
     "count": 1
   },
