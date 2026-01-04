@@ -20,67 +20,17 @@
     "count": 3
   },
   {
-    "name": "Matplotlib",
-    "value": 3.64,
-    "count": 2
-  },
-  {
     "name": "NumPy",
     "value": 3.64,
     "count": 2
   },
   {
-    "name": "Torchinfo",
-    "value": 1.82,
-    "count": 1
+    "name": "Matplotlib",
+    "value": 3.64,
+    "count": 2
   },
   {
-    "name": "Tensorflow-datasets",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Seaborn",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Huggingface",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Imageio",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tokenizers",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorflow-hub",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorboard",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "TensorFlow",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Pygame",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gym",
+    "name": "Pillow",
     "value": 1.82,
     "count": 1
   },
@@ -90,12 +40,12 @@
     "count": 1
   },
   {
-    "name": "Pillow",
+    "name": "Keras",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Tqdm",
+    "name": "Torchinfo",
     "value": 1.82,
     "count": 1
   },
@@ -105,17 +55,7 @@
     "count": 1
   },
   {
-    "name": "Scikit-image",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Keras",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gensim",
+    "name": "Pygame",
     "value": 1.82,
     "count": 1
   },
@@ -125,7 +65,62 @@
     "count": 1
   },
   {
-    "name": "Collections",
+    "name": "Seaborn",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-datasets",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-hub",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Imageio",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Scikit-image",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gym",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gensim",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "TensorFlow",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tokenizers",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tqdm",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Huggingface",
     "value": 1.82,
     "count": 1
   },
@@ -135,32 +130,7 @@
     "count": 1
   },
   {
-    "name": "Sys",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Io",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Feature_extractor",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Datetime",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Urllib",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "SHAP",
+    "name": "Collections",
     "value": 1.82,
     "count": 1
   },
@@ -170,7 +140,17 @@
     "count": 1
   },
   {
-    "name": "Os",
+    "name": "Fpdf",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Datetime",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Feature_extractor",
     "value": 1.82,
     "count": 1
   },
@@ -180,7 +160,27 @@
     "count": 1
   },
   {
-    "name": "Fpdf",
+    "name": "Urllib",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Os",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "SHAP",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Io",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Sys",
     "value": 1.82,
     "count": 1
   },
@@ -195,12 +195,12 @@
     "count": 1
   },
   {
-    "name": "Vector_db_setup",
+    "name": "Llama_index",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Llama_index",
+    "name": "Vector_db_setup",
     "value": 1.82,
     "count": 1
   }
