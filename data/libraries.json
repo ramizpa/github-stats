@@ -30,32 +30,7 @@
     "count": 2
   },
   {
-    "name": "Huggingface",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gensim",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Pillow",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Seaborn",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Torchinfo",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Imageio",
+    "name": "Keras",
     "value": 1.82,
     "count": 1
   },
@@ -65,22 +40,7 @@
     "count": 1
   },
   {
-    "name": "TensorFlow",
-    "value": 1.82,
-    "count": 1
-  },
-  {
     "name": "Tensorflow-datasets",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Scikit-image",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorflow-hub",
     "value": 1.82,
     "count": 1
   },
@@ -90,7 +50,12 @@
     "count": 1
   },
   {
-    "name": "Tokenizers",
+    "name": "Imageio",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Pillow",
     "value": 1.82,
     "count": 1
   },
@@ -100,17 +65,27 @@
     "count": 1
   },
   {
+    "name": "Torchinfo",
+    "value": 1.82,
+    "count": 1
+  },
+  {
     "name": "Pygame",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Keras",
+    "name": "Scikit-image",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Tqdm",
+    "name": "Gym",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "TensorFlow",
     "value": 1.82,
     "count": 1
   },
@@ -120,7 +95,32 @@
     "count": 1
   },
   {
-    "name": "Gym",
+    "name": "Tokenizers",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tqdm",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gensim",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Huggingface",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-hub",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Seaborn",
     "value": 1.82,
     "count": 1
   },
@@ -140,17 +140,7 @@
     "count": 1
   },
   {
-    "name": "Sys",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Socket",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Io",
+    "name": "Re",
     "value": 1.82,
     "count": 1
   },
@@ -160,22 +150,7 @@
     "count": 1
   },
   {
-    "name": "Urllib",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Feature_extractor",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Datetime",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Re",
+    "name": "Sys",
     "value": 1.82,
     "count": 1
   },
@@ -185,12 +160,37 @@
     "count": 1
   },
   {
-    "name": "Pdf_processing",
+    "name": "Io",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Socket",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Urllib",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Datetime",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Feature_extractor",
     "value": 1.82,
     "count": 1
   },
   {
     "name": "Vector_db",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Pdf_processing",
     "value": 1.82,
     "count": 1
   },
