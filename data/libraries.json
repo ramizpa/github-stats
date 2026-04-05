@@ -20,17 +20,17 @@
     "count": 3
   },
   {
-    "name": "Matplotlib",
-    "value": 3.64,
-    "count": 2
-  },
-  {
     "name": "NumPy",
     "value": 3.64,
     "count": 2
   },
   {
-    "name": "Tokenizers",
+    "name": "Matplotlib",
+    "value": 3.64,
+    "count": 2
+  },
+  {
+    "name": "TensorFlow",
     "value": 1.82,
     "count": 1
   },
@@ -40,7 +40,32 @@
     "count": 1
   },
   {
-    "name": "Huggingface",
+    "name": "Imageio",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Pillow",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Keras",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Smart-open",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Seaborn",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-hub",
     "value": 1.82,
     "count": 1
   },
@@ -55,12 +80,7 @@
     "count": 1
   },
   {
-    "name": "Pygame",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gym",
+    "name": "Tqdm",
     "value": 1.82,
     "count": 1
   },
@@ -70,42 +90,7 @@
     "count": 1
   },
   {
-    "name": "Pillow",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tqdm",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Nltk",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "TensorFlow",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Imageio",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Smart-open",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Keras",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Seaborn",
+    "name": "Pygame",
     "value": 1.82,
     "count": 1
   },
@@ -115,7 +100,7 @@
     "count": 1
   },
   {
-    "name": "Tensorflow-hub",
+    "name": "Nltk",
     "value": 1.82,
     "count": 1
   },
@@ -125,7 +110,17 @@
     "count": 1
   },
   {
-    "name": "Collections",
+    "name": "Tokenizers",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gym",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Huggingface",
     "value": 1.82,
     "count": 1
   },
@@ -135,12 +130,17 @@
     "count": 1
   },
   {
-    "name": "Feature_extractor",
+    "name": "Collections",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Io",
+    "name": "Sys",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Feature_extractor",
     "value": 1.82,
     "count": 1
   },
@@ -150,12 +150,22 @@
     "count": 1
   },
   {
-    "name": "Re",
+    "name": "Urllib",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Urllib",
+    "name": "SHAP",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Os",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Io",
     "value": 1.82,
     "count": 1
   },
@@ -170,22 +180,12 @@
     "count": 1
   },
   {
-    "name": "SHAP",
+    "name": "Re",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Sys",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Os",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Llama_index",
+    "name": "Pdf_processing",
     "value": 1.82,
     "count": 1
   },
@@ -195,12 +195,12 @@
     "count": 1
   },
   {
-    "name": "Vector_db_setup",
+    "name": "Llama_index",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Pdf_processing",
+    "name": "Vector_db_setup",
     "value": 1.82,
     "count": 1
   }
