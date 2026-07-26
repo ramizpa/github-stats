@@ -20,17 +20,17 @@
     "count": 3
   },
   {
-    "name": "Matplotlib",
-    "value": 3.64,
-    "count": 2
-  },
-  {
     "name": "NumPy",
     "value": 3.64,
     "count": 2
   },
   {
-    "name": "Keras",
+    "name": "Matplotlib",
+    "value": 3.64,
+    "count": 2
+  },
+  {
+    "name": "Tensorflow-datasets",
     "value": 1.82,
     "count": 1
   },
@@ -40,12 +40,7 @@
     "count": 1
   },
   {
-    "name": "Huggingface",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Gensim",
+    "name": "Keras",
     "value": 1.82,
     "count": 1
   },
@@ -55,12 +50,42 @@
     "count": 1
   },
   {
-    "name": "Tensorboard",
+    "name": "Gensim",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Scikit-image",
+    "name": "Nltk",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tokenizers",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Huggingface",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Torchinfo",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard-data-server",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Smart-open",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Gym",
     "value": 1.82,
     "count": 1
   },
@@ -75,52 +100,27 @@
     "count": 1
   },
   {
-    "name": "Tensorflow-hub",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorboard-data-server",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Seaborn",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tokenizers",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Torchinfo",
-    "value": 1.82,
-    "count": 1
-  },
-  {
     "name": "Tqdm",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Tensorflow-datasets",
+    "name": "Scikit-image",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Smart-open",
+    "name": "Tensorflow-hub",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Nltk",
+    "name": "Tensorboard",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Gym",
+    "name": "Seaborn",
     "value": 1.82,
     "count": 1
   },
@@ -131,16 +131,6 @@
   },
   {
     "name": "Requests",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Re",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Io",
     "value": 1.82,
     "count": 1
   },
@@ -160,6 +150,16 @@
     "count": 1
   },
   {
+    "name": "Urllib",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Io",
+    "value": 1.82,
+    "count": 1
+  },
+  {
     "name": "Datetime",
     "value": 1.82,
     "count": 1
@@ -170,22 +170,17 @@
     "count": 1
   },
   {
-    "name": "Urllib",
-    "value": 1.82,
-    "count": 1
-  },
-  {
     "name": "Os",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "SHAP",
+    "name": "Re",
     "value": 1.82,
     "count": 1
   },
   {
-    "name": "Llama_index",
+    "name": "SHAP",
     "value": 1.82,
     "count": 1
   },
@@ -201,6 +196,11 @@
   },
   {
     "name": "Vector_db_setup",
+    "value": 1.82,
+    "count": 1
+  },
+  {
+    "name": "Llama_index",
     "value": 1.82,
     "count": 1
   }
