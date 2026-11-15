@@ -1,207 +1,662 @@
 [
   {
     "name": "Pandas",
-    "value": 9.09,
+    "value": 4.73,
+    "count": 8
+  },
+  {
+    "name": "NumPy",
+    "value": 2.96,
+    "count": 5
+  },
+  {
+    "name": "scikit-learn",
+    "value": 2.96,
     "count": 5
   },
   {
     "name": "Streamlit",
-    "value": 9.09,
+    "value": 2.96,
     "count": 5
   },
   {
-    "name": "Joblib",
-    "value": 5.45,
-    "count": 3
-  },
-  {
-    "name": "scikit-learn",
-    "value": 5.45,
-    "count": 3
-  },
-  {
     "name": "Matplotlib",
-    "value": 3.64,
+    "value": 2.37,
+    "count": 4
+  },
+  {
+    "name": "Python-dotenv",
+    "value": 1.78,
+    "count": 3
+  },
+  {
+    "name": "Joblib",
+    "value": 1.78,
+    "count": 3
+  },
+  {
+    "name": "Pillow",
+    "value": 1.18,
     "count": 2
   },
   {
-    "name": "NumPy",
-    "value": 3.64,
+    "name": "Openai",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "Seaborn",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "Nltk",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "TensorFlow",
+    "value": 1.18,
     "count": 2
   },
   {
     "name": "Tqdm",
-    "value": 1.82,
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "Ipywidgets",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "PyTorch",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "Urllib",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "Os",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "Sys",
+    "value": 1.18,
+    "count": 2
+  },
+  {
+    "name": "A2a-sdk",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Keras",
-    "value": 1.82,
+    "name": "Nest-asyncio",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Pillow",
-    "value": 1.82,
+    "name": "Agent-framework-openai~",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Gensim",
-    "value": 1.82,
+    "name": "Jcs",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Seaborn",
-    "value": 1.82,
+    "name": "Ipykernel",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Imageio",
-    "value": 1.82,
+    "name": "Chromadb",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Tensorboard",
-    "value": 1.82,
+    "name": "Uvicorn",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Pygame",
-    "value": 1.82,
+    "name": "Azure-identity",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Smart-open",
-    "value": 1.82,
+    "name": "Azure-ai-projects",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Tensorflow-datasets",
-    "value": 1.82,
+    "name": "Httpx",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Tokenizers",
-    "value": 1.82,
+    "name": "Agent-framework-core",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Scikit-image",
-    "value": 1.82,
+    "name": "Pynacl",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Gym",
-    "value": 1.82,
+    "name": "Agent-framework-foundry~",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "TensorFlow",
-    "value": 1.82,
+    "name": "Azure-search-documents",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Foundry-local-sdk",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Mcp",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Agent-framework-orchestrations~",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Huggingface",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Nltk",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Tensorboard-data-server",
-    "value": 1.82,
+    "name": "Tensorflow-datasets",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Tensorflow-hub",
-    "value": 1.82,
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard-data-server",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tokenizers",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Gensim",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pygame",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Scikit-image",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Gym",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Smart-open",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Keras",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Torchinfo",
-    "value": 1.82,
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Imageio",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Azure-ai-inference",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tiktoken",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Collections",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Requests",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Re",
-    "value": 1.82,
+    "name": "Nltk~",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Datetime",
-    "value": 1.82,
+    "name": "Tensorflow-datasets~",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Fpdf",
-    "value": 1.82,
+    "name": "Pillow~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Ipywidgets~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Numpy~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pydot~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Nbdime~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Jupyterlab~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Swig~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Graphviz~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Xgboost~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard-plugin-profile~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Numexpr~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Statsmodels~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Google-cloud-storage~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Matplotlib~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-serving-api~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pandas~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Transformers~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Joblib~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Requests~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Google-cloud-aiplatform~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Keras-tuner~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Scipy~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Gymnasium",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorboard~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow-hub~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Scikit-learn~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tqdm~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Urlextract~",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tiktoken ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Matplotlib ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tqdm ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Tensorflow ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Psutil ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Numpy ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pandas ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Torch ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Jupyterlab ",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Great-expectations",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pyupgrade",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Mkdocs",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pytest-cov",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Mkdocstrings",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Cleanlab",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Flake8-pyproject",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Ray",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Isort",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Typer",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pre-commit",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Sqlalchemy",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Pytest",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Flake8",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Wordcloud",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "MLflow",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Snorkel",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Anyscale",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Lime",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Numpyencoder",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Jupyterlab",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Fastapi",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Transformers",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Hyperopt",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Black",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Feature_extractor",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Urllib",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "SHAP",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Socket",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Os",
-    "value": 1.82,
-    "count": 1
-  },
-  {
-    "name": "Sys",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Io",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Vector_db",
-    "value": 1.82,
+    "name": "Datetime",
+    "value": 0.59,
     "count": 1
   },
   {
-    "name": "Llama_index",
-    "value": 1.82,
+    "name": "Fpdf",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Re",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Socket",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Html",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Json",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Math",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Pdf_processing",
-    "value": 1.82,
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Vector_db",
+    "value": 0.59,
+    "count": 1
+  },
+  {
+    "name": "Llama_index",
+    "value": 0.59,
     "count": 1
   },
   {
     "name": "Vector_db_setup",
-    "value": 1.82,
+    "value": 0.59,
     "count": 1
   }
 ]
